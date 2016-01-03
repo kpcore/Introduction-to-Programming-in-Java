@@ -4,7 +4,7 @@
 
 **Overview**. Our goal in this chapter is to convince you that writing a computer program is easier than writing a piece of text such as a paragraph or an essay. In this chapter, we take you through these building blocks, get you started on programming in Java, and study a variety of interesting programs.
 
-
+<br/>
 <br/>
 
 > - [**1.1 Elements of Programming**][1] instructs you on how to create, compile, and execute a Java program on your system.
@@ -15,11 +15,11 @@
 > - [**1.6 Random Web Surfer**][6] presents a case study that models the behavior of a web surfer using a Markov chain.
 
 
-
+<br/>
 <br/>
 **Java programs in this chapter.** Below is a list of Java programs in this chapter. Click on the program name to access the Java code; click on the reference number for a brief description; read the textbook for a full discussion.
 
-
+<br/>
 <br/>
 
 | REF     | PROGRAM         | DESCRIPTION   |
