@@ -4,12 +4,9 @@
 
 **Overview**. Our goal in this chapter is to convince you that writing a computer program is easier than writing a piece of text such as a paragraph or an essay. In this chapter, we take you through these building blocks, get you started on programming in Java, and study a variety of interesting programs.
 
-
-
+<br/>
 
 ----------
-
-
 <br />
 
 
@@ -23,13 +20,13 @@
 
 <br/>
 * * * * 
-
+<br/>
 **Java programs in this chapter.** Below is a list of Java programs in this chapter. Click on the program name to access the Java code; click on the reference number for a brief description; read the textbook for a full discussion.
-
+<br/>
 * * * * * 
 <br/>
 
-| REF     | ASCII               | HTML               |
+| REF     | PROGRAM         | DESCRIPTION   |
  ------   | ------------------- | ------------------
 | 1.1.1   | HelloWorld.java | `Hello, World` |
 | 1.2.1   | Ruler.java | `string concatenation example` |
